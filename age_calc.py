@@ -7,11 +7,3 @@ def calc_age():
  age=y-x
  print("age of the candiate=",age)
  return age
-
-calc_age()
-'''
-if age>=18:
- print(age,"eligible to vote")
-else:
- print("not eliginle")
-'''
