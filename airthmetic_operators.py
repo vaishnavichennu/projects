@@ -1,0 +1,8 @@
+a=int(input("enter the first digit="))
+b=int(input("enter the second digit="))
+print("sum=",a+b)
+print("diff=",a-b)
+print("div=",a/b)
+print("floor div=",a//b)
+print("product=",a*b)
+print("exponential=",a**b)
